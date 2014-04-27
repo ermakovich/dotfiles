@@ -1,0 +1,9 @@
+# This file is for unifying the coding style for different editors and IDEs
+# See editorconfig.org
+
+root = true
+
+[*]
+indent_style = tab
+trim_trailing_whitespace = false
+insert_final_newline = false

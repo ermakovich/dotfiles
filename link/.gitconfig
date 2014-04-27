@@ -1,0 +1,24 @@
+[user]
+	name = Sergey Ermakovich
+	email = s.ermakovich@gmail.com
+[alias]
+	# Commit
+	cm = commit -m
+	
+	# Checkout
+	co = checkout
+	cb = checkout -b
+	
+	# Diff
+	df = diff
+	
+	# Pull
+	pl   = pull
+	plo  = pull --rebase origin
+	plom = pull --rebase origin master
+	
+	# Stage
+	sa = stage --all
+	
+	# Status
+	st = status -s
