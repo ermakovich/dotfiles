@@ -3,7 +3,7 @@
 	email = s.ermakovich@gmail.com
 [alias]
 	# Commit
-	com
+	com = commit
 	comm = commit -m
 	
 	# Checkout
